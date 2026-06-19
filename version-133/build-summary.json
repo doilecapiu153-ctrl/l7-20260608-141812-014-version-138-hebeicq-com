@@ -1,0 +1,26 @@
+{
+  "parsed_movies": 2000,
+  "category_counts": {
+    "mixed-zone": 200,
+    "binge-zone": 200,
+    "movie-zone": 200,
+    "series-zone": 200,
+    "quality-zone": 200,
+    "hot-zone": 200,
+    "fresh-zone": 200,
+    "hd-zone": 200,
+    "free-zone": 200,
+    "featured-zone": 200
+  },
+  "validation": {
+    "html_files": 2014,
+    "detail_files": 2000,
+    "category_files": 10,
+    "category_card_count": 2000,
+    "baidu_missing": [],
+    "image_files_included": [],
+    "hls_player_count": 2000,
+    "expected_count": 2000
+  },
+  "problems": []
+}
